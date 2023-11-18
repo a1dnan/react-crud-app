@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer HP",
+      "price": "3400",
+      "checked": "on"
+    },
+    {
+      "id": 3,
+      "name": "TV",
+      "price": 9000,
+      "checked": true
+    },
+    {
+      "id": 4,
+      "name": "Printer",
+      "price": 2000,
+      "checked": false
+    },
+    {
+      "id": 5,
+      "name": "SmartPhone",
+      "price": 6400,
+      "checked": true
+    },
+    {
+      "name": "PS5",
+      "price": "8000",
+      "checked": "on",
+      "id": 6
+    },
+    {
+      "name": "XBOX",
+      "price": "7600",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "hhh",
+      "price": "0900",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "test",
+      "price": "100",
+      "checked": false,
+      "id": 9
+    }
+  ]
+}
